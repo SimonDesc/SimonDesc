@@ -1,43 +1,24 @@
+### Simon Descombes
 
-Hello! I'm an aspiring Software Engineer, passionate about diving into the coding world and eager to contribute to innovative projects.
+Lead développeur full stack à Toulouse (React, Symfony).
 
-I have a strong foundation in computer science principles and hands-on project experience, I'm excited to embark on my journey in the tech industry.
+Après 10 ans au support et à la formation sur un logiciel de GMAO chez Technic-Soft, je me suis reconverti dans le développement en 2023 (Holberton School, titre RNCP Concepteur Développeur d'Applications). Je suis revenu chez Technic-Soft en 2025, cette fois côté code :
 
-## 📌 Quick Profile Updates
+- réécriture de l'application mobile Mobi Next (Java Android vers PWA React + Capacitor), publiée sur Google Play et l'App Store, utilisée par plus de 2 000 techniciens
+- migration en cours de Service 9000, un client lourd C++ de plus de 20 ans, vers le web en React / Symfony
+- RAG sur l'historique des réparations pour aider au diagnostic
+- mise en place de GitLab, de la CI/CD et d'un serveur de préproduction
+- encadrement d'une équipe de 2 à 4 développeurs
 
-- **LinkedIn:** [Simon Descombes](https://www.linkedin.com/in/simon-descombes/)
+Mon code pro est sur un GitLab interne, donc ce profil montre surtout mes projets perso et de formation.
 
+**Projets**
 
-- **About Me:**
-  - **Position:** Junior Software Engineer
-  - **History:** Bringing a decade of experience in the software technology sector, including expertise in customer support, providing a unique perspective and a solid foundation for my transition into software development.
-  - **Location:** Based in Toulouse, but fully open and enthusiastic about relocation opportunities for the right job offer in the tech industry.
+- [OrderNest](https://github.com/SimonDesc/order_nest) : gestion de commandes utilisée par une petite entreprise depuis décembre 2023 (Django, HTMX, Tailwind)
+- [Carte de hauteur de neige](https://github.com/SimonDesc/ELDA-x-Simon) : application SIG sur données GeoTIFF / GeoJSON (React, Mapbox GL JS, Node.js)
 
-## 🛠 Technical Skills
+**Stack** : React, JavaScript, PHP/Symfony, Python/Django, Node.js, SQL/PostgreSQL, Docker, GitLab CI/CD
 
-- **Programming Languages:** C, Python(+Django, +Flask), JavaScript(+JQuery)
-- **Frameworks & Tools:** Shell, Git, Linux
+**IA** : je code au quotidien avec Claude Code et Codex, et j'utilise OpenRouter pour tester d'autres modèles.
 
-
-## 🚀 Projects and Contributions
-
-### Web Development
-
-#### Personal Project:
-- **Order Nest:** A web application designed to streamline order management. Developed using Python and contemporary web technologies, Order Nest facilitates efficient order handling and scales to accommodate increased demands. Since its deployment in a small company in December 2023, the application continues to undergo enhancements. View the project here: [OrderNest](https://github.com/SimonDesc/order_nest).
-
-### Education -> 18 month of full time project sided formation.
-
-#### My Web Development Journey:
-- **Back-End Projects:** A comprehensive collection of my projects focusing on back-end web development, showcasing my skills in server-side logic, database interactions, and API construction. Explore my back-end projects: [Back-End](https://github.com/SimonDesc/holbertonschool-web_back_end).
-- **Front-End Projects:** Here you'll find my projects dedicated to front-end web development. These projects highlight my proficiency in creating responsive designs, user interfaces, and front-end programming. Check out my front-end endeavors: [Front-End](https://github.com/SimonDesc/holbertonschool-web_front_end).
-
-
-
-
-## 📫 Let's Connect!
-
-I'm always open to connecting with fellow developers, mentors, and tech enthusiasts. Whether it's for collaboration, learning opportunities, or just sharing ideas, feel free to reach out!
-
-- **LinkedIn:** [Simon Descombes](https://www.linkedin.com/in/simon-descombes/)
-
+[LinkedIn](https://www.linkedin.com/in/) · pro.descombes@gmail.com
